@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="42098" started-at="2021-05-19T21:23:47Z" finished-at="2021-05-19T21:24:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="42098" started-at="2021-05-19T21:23:47Z" finished-at="2021-05-19T21:24:29Z">
+      <class name="com.Amazon.AmazonAssessment">
+        <test-method status="PASS" signature="tc0()[pri:0, instance:com.Amazon.AmazonAssessment@72d818d1]" name="tc0" is-config="true" duration-ms="14105" started-at="2021-05-19T21:23:47Z" finished-at="2021-05-19T21:24:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc0 -->
+        <test-method status="PASS" signature="tc1()[pri:0, instance:com.Amazon.AmazonAssessment@72d818d1]" name="tc1" duration-ms="3388" started-at="2021-05-19T21:24:01Z" finished-at="2021-05-19T21:24:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method status="PASS" signature="tc2()[pri:0, instance:com.Amazon.AmazonAssessment@72d818d1]" name="tc2" duration-ms="10064" started-at="2021-05-19T21:24:04Z" finished-at="2021-05-19T21:24:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+        <test-method status="PASS" signature="tc3()[pri:0, instance:com.Amazon.AmazonAssessment@72d818d1]" name="tc3" duration-ms="416" started-at="2021-05-19T21:24:14Z" finished-at="2021-05-19T21:24:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+        <test-method status="PASS" signature="tc4()[pri:0, instance:com.Amazon.AmazonAssessment@72d818d1]" name="tc4" duration-ms="10002" started-at="2021-05-19T21:24:15Z" finished-at="2021-05-19T21:24:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc4 -->
+        <test-method status="PASS" signature="tc5()[pri:0, instance:com.Amazon.AmazonAssessment@72d818d1]" name="tc5" duration-ms="4084" started-at="2021-05-19T21:24:25Z" finished-at="2021-05-19T21:24:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc5 -->
+      </class> <!-- com.Amazon.AmazonAssessment -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
